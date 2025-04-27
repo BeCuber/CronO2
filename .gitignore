@@ -1,0 +1,45 @@
+# Android Studio/IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
+*.ipr
+*.iws
+.externalNativeBuild/
+.cxx/
+
+# Build outputs
+/build/
+/app/build/
+/*/build/
+
+# Auto-generated files
+*.log
+*.class
+*.dex
+*.apk
+*.ap_
+*.db
+*.DS_Store
+*.jar
+*.war
+*.ear
+*.swp
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git / Other
+.env
+*.keystore
+*.jks
+
+# Test outputs
+/test-results/
+/out/
+
+# User-specific configurations
+*.local
+captures/
