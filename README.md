@@ -19,17 +19,14 @@ La aplicación pretende hacer posible una previsión para la variedad de unidade
 - Texto en inglés y en español mediante internacionalización.
 - Los test que comparan el resultado del cálculo de tiempo de esta aplicación con las tablas de referencia proporcionadas por proveedores de botellas de oxígeno arrojan resultados muy variados dependiendo del fabricante. Los cálculos presentan variaciones significativas según el fabricante. Al buscar un margen de error inferior al 5%, los resultados de precisión oscilan entre un 6% y un 100% de acierto. Se requiere un análisis adicional para mejorar la fiabilidad.
 
+## [Así funciona](https://youtube.com/shorts/Pq6sdgn_GHg?feature=share)
+
 ## Instalación y uso
 De momento la aplicación se encuentra únicamente en este repositorio.
 
 1. Clona este repositorio
 2. Ábrelo en Android Studio
 3. Compila y ejecuta en un emulador (desde API 24) o dispositivo físico
-
-## Capturas de pantalla
-![Flujo 1](images/flujo1.png)
-![Flujo 2](images/flujo2.png)
-![Flujo 3](images/flujo3.png)
 
 ## Mejoras previstas
 - Implementar mediante canvas una imagen de manómetro cuya aguja pueda arrastrarse.

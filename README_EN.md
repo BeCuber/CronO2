@@ -20,6 +20,8 @@ This app is designed to provide estimations across various measurement units and
 - Supports both English and Spanish through internationalization.
 - Accuracy tests comparing the app’s calculations with reference tables from oxygen cylinder suppliers show significant variability depending on the manufacturer. While the goal is to keep the margin of error below 5%, precision rates currently range between 6% and 100%. Further analysis is needed to improve reliability.
 
+## [This is how it works](https://youtube.com/shorts/Pq6sdgn_GHg?feature=share)
+
 ## Installation & Usage
 The application is currently available only in this repository.
 
@@ -27,10 +29,6 @@ The application is currently available only in this repository.
 2. Open it in Android Studio
 3. Build and run it on an emulator (API 24+) or a physical device
 
-## Screenshots
-![Flujo 1](images/flujo1.png)
-![Flujo 2](images/flujo2.png)
-![Flujo 3](images/flujo3.png)
 
 ## Planned Improvements
 - Implement a pressure gauge graphic using Canvas, allowing users to manually adjust the needle.
