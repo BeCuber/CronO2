@@ -1,5 +1,8 @@
 [![Custom Badge](https://img.shields.io/badge/-This_README_is_available_in_English-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZTNlM2UzIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](./README_EN.md)
-# Proyecto: CronO<sub>2</sub>
+# CronO<sub>2</sub>
+
+![Index](./images/main_view.png)
+
 ## Descripción
 Este repositorio está basado en mi proyecto desarrollado como trabajo final del ciclo formativo FPII DAM.
 El proyecto consiste en el desarrollo de una aplicación móvil en sistema operativo Android para el cálculo del tiempo restante de administración de oxígeno con botellas utilizadas en servicios de emergencias sanitarias.  
